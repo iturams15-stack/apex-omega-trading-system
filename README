@@ -1,0 +1,20 @@
+apex-omega-trading-system
+
+# APEX OMEGA v3+
+
+Institutional trading signal engine.
+
+Features:
+
+• Multi-timeframe market analysis  
+• SMT twin-pair divergence detection  
+• Liquidity trap detection  
+• Order block intelligence  
+• AI probability scoring  
+• Liquidity map targeting  
+• Volatility regime filter  
+• Automatic stop loss and take profit generation  
+• 20+ market monitoring  
+• Cloud deployment  
+
+Signals are sent automatically via webhook alerts.
